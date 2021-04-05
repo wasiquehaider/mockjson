@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "categoryId": "1",
+      "categoryName": "Animal Colouring",
+      "categoryImage": "https://images.all-free-download.com/images/graphiclarge/safari_animals_311320.jpg",
+      "pages": [
+        {
+          "id": 1,
+          "name": "cat",
+          "image": "https://images.all-free-download.com/images/graphiclarge/safari_animals_311320.jpg",
+          "svgData": []
+        }
+      ]
+    }
+  ]
+}
