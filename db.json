@@ -4,11 +4,30 @@
       "categoryId": "1",
       "categoryName": "Animal Colouring",
       "categoryImage": "https://images.all-free-download.com/images/graphiclarge/safari_animals_311320.jpg",
+      "route": "paintanimalscreen",
+      "backgroundColor": "#7fffd4",
+      "colorButton": "#FE6230",
       "pages": [
         {
           "id": 1,
           "name": "cat",
           "image": "https://images.all-free-download.com/images/graphiclarge/safari_animals_311320.jpg",
+          "svgData": []
+        }
+      ]
+    },
+    {
+      "categoryId": "2",
+      "categoryName": "Alphabet Colouring",
+      "categoryImage": "https://www.pngarts.com/files/1/ABC-Transparent-Background-PNG.png",
+      "route": "paintanimalscreen",
+      "backgroundColor": "#ff9966",
+      "colorButton": "#FE6230",
+      "pages": [
+        {
+          "id": 1,
+          "name": "A",
+          "image": "https://www.pngarts.com/files/1/ABC-Transparent-Background-PNG.png",
           "svgData": []
         }
       ]
